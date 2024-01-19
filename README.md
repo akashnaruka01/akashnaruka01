@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Akash Singh Naruka</h1>
-<h3 align="center">A beginner to frontend developer from India</h3>
+<h3 align="center">A full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashnaruka01&label=Profile%20views&color=0e75b6&style=flat" alt="akashnaruka01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akashnaruka01" target="blank"><img src="https://img.shields.io/twitter/follow/akashnaruka01?logo=twitter&style=for-the-badge" alt="akashnaruka01" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Devlopment**
+- 🌱 I’m currently working on **MERN Stack Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akashnaruka01?tab=repositories](https://github.com/akashnaruka01?tab=repositories)
 
